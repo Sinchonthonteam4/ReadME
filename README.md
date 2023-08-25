@@ -96,7 +96,7 @@ $ npm run dev
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 
 ### Communication
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+![Notion](https://www.notion.so/4-688dd64c70044a1cbbb82b64f8248bc0?pvs=4)
 
 ---
 ## 화면 구성 📺
