@@ -49,7 +49,7 @@
 
 ### Installation
 ``` bash
-$ git clone git@github.com:wooseok123/sinchonthon_readme.git
+$ git clone git@https://github.com/Sinchonthonteam4/Frontend
 $ cd 프로젝트명
 ```
 
@@ -58,7 +58,6 @@ $ cd 프로젝트명
 
 
 
-(모노레포인 경우)
 #### Backend
 ```
 $ cd server
