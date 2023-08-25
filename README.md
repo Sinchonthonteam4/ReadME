@@ -17,7 +17,7 @@
 
 ## 팀 소개
 
-|      김한준 <br/> **(기획/디자인)**       |          이서진 <br/> **(개발/프론트엔드)**          |       이태휘 <br/> **(개발/백엔드)**        |       한우석  <br/> **(개발/프론트엔드)**       |                                                                                                              
+|       주한아 <br/> **(기획/디자인)**       |          서가 <br/> **(개발/프론트엔드)**          |       장세환 <br/> **(개발/프론트엔드)**        |       진규빈  <br/> **(개발/프론트엔드)**       |                                                                                                              
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | 
 |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/5e1d7e98-b9d2-4deb-a4b6-b94a04267cef" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/102040717?v=4" />    |                   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/c205c52a-c1e6-4f6b-8058-e7b4dd9afd80"/>   |   <img width="160px" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a91706e5-36e8-418e-92b3-6c9abb3dfa7c" />    |
 |   [zhivago-kim](https://www.linkedin.com/in/zhivago-kim)   |    [529539](https://github.com/529539)  |    [THLcode](https://github.com/THLcode)  |    [@wooseok123](https://github.com/wooseok123)  |
@@ -126,27 +126,33 @@ $ npm run dev
 ### 디렉토리 구조
 ```bash
 ├── README.md
-├── package-lock.json
-├── package.json
-├── server : 백엔드
-│   ├── README.md
+├── SERVER : 백엔드
+│   ├── Pipfile
 │   ├── requirements.txt
 │   ├── manage.py
-│   ├── api1 : api1에 대한 정보
+│   ├── accounts : 사용자 계정 관리
 │   │   ├── urls.py
 │   │   ├── views.py
 │   │   ├── etc..
-│   ├── api2 : api2에 대한 정보
+│   ├── cafes : 프랜차이즈 카페와 음료 정보
 │   │   ├── urls.py
 │   │   ├── views.py
 │   │   ├── etc..
-│   ├── api3 : api3에 대한 정보
+│   ├── challenge : 대학별 챌린지 기능
 │   │   ├── urls.py
 │   │   ├── views.py
 │   │   ├── etc..
-│   ├── extensions
-│   │   └── users-permissions : 권한 정보
-└── front : 프론트엔드
+│   ├── reports : 카페인 섭취량 기록 기능
+│   │   ├── urls.py
+│   │   ├── views.py
+│   │   ├── etc..
+│   ├── config
+│   │   └── settings.py
+│   │   └── urls.py
+│   ├── static
+│   │   └── admin
+│   │   └── rest_framework
+└── Frontend : 프론트엔드
     ├── README.md
     ├── public
     │   ├── favicon.ico
