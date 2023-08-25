@@ -104,7 +104,7 @@ $ npm run dev
 | :-------------------------------------------: | :------------: |
 |  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/caeff266-3419-4d56-8000-88734c3a0c59"/> |  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/23039bf7-80ac-42d3-8636-d52f49157c1b"/>|  
 | **서비스 페이지 2**   |  **서비스 페이지 3**   |  
-| <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/>   |  <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/>     |
+| <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/3b10a71d-11c7-4622-ad1d-91691180d8ff"/>   |  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/1b2fb72f-1bcd-480a-b586-c05a2dccc44c"/>     |
 
 ---
 ## 주요 기능 📦
