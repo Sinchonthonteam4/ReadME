@@ -102,7 +102,7 @@ $ npm run dev
 ## 화면 구성 📺
 | **메인 페이지**  |  **서비스 페이지 1**   |
 | :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/caeff266-3419-4d56-8000-88734c3a0c59"/> |  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/3451f930-9020-4979-a2fb-571da4636670"/>|  
+|  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/caeff266-3419-4d56-8000-88734c3a0c59"/> |  <img width="329" src="https://github.com/Sinchonthonteam4/ReadME/assets/74279249/46008237-dafd-4928-85af-a3acb7e6d9e9"/>|  
 | **서비스 페이지 2**   |  **서비스 페이지 3**   |  
 | <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/>   |  <img width="329" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/a40b9b11-3833-4b81-8dea-9e34b10f81a7"/>     |
 
