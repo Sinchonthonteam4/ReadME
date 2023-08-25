@@ -2,14 +2,14 @@
 2023 신촌톤의 organization을 위한 리드미 양식입니다.
 ---
 
-# 서비스명 Cafeiner
+# 서비스명 Caffeiner
 
 <div align="center">
 <img width="329" alt="image" src="https://github.com/wooseok123/sinchonthon_readme/assets/59460718/bfa67065-c11b-4961-a1b5-3b27cb7e873d">
 </div>
 
 # 2023th Sinchonthon
-> **신촌톤 커피 마스터팀** <br/>
+> **신촌톤 카페이팀** <br/>
 
 ## 배포 주소
 
